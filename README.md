@@ -1,4 +1,4 @@
-# UC Berkeley CS182 RL Project Readme
+# UC Berkeley CS W182 RL Project Readme
 
 # Introduction
 
