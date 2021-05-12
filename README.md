@@ -20,5 +20,7 @@ We have five different subfolders, four of which are for training the baseline m
         DECOUPLED_ImpalaCnn.py
           ImpalaCNN implementation using decoupling, used to train the policy and value functions for our novel model
 
-#CSV file
+# CSV file
 We evaluated the model in the test enviornment for 20,000 train time steps. 
+# PDF Writeup
+https://github.com/KristofPusztai/CSW182-Final/blob/master/Reinforcement_Learning_Generalization_via_Partially_Decoupled_Policy-Value_Networks.pdf
